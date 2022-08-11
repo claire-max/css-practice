@@ -1,0 +1,46 @@
+.red {
+    color:red;
+  }
+  
+  .blue {
+    color:blue;
+  }
+  
+  .green {
+    color:green;
+  }
+  
+  .big {
+    font-size: x-large;
+  }
+  
+  
+  .center {
+    text-align: center;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+
+  .family {
+    font-family: monospace;
+  }
+
+  .multiple {
+    color: orange;
+    font-weight: bold;
+    font-size: larger;
+  }
+
+  .styledFont {
+    font-family:sans-serif;
+    font-style: italic ;
+    color:pink;
+  }
+
+#styledImage {
+    border-width: 20px;
+    border-style: solid;
+    border-color: deeppink;
+}
